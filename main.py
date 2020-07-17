@@ -6,4 +6,6 @@ root.wm_title("First test window")
 
 root.mainloop() # Blocks until terminated
 
+
+print("Test")
 print("All done.")
